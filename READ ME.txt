@@ -1,0 +1,5 @@
+To Run the Code.
+
+1. Click and Run EnigmaFinal.py
+2.The UI will appear. 
+3. The Exports will be saved in the same directory as the program.
